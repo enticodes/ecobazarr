@@ -1,0 +1,12 @@
+export { HeroBanner } from "./HeroBanner";
+export { ValuePropositions } from "./ValuePropositions";
+export { PromoBanners } from "./PromoBanners";
+export { PopularCategories } from "./PopularCategories";
+export { HotDeals } from "./HotDeals";
+export { PopularProducts } from "./PopularProducts";
+export { DiscountBanner } from "./DiscountBanner";
+export { FeaturedProducts } from "./FeaturedProducts";
+export { LatestNews } from "./LatestNews";
+export { Testimonials } from "./Testimonials";
+export { BrandMarquee } from "./BrandMarquee";
+export { InstagramFeed } from "./InstagramFeed";

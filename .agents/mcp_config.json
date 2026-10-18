@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "figma": {
+      "command": "node",
+      "args": [
+        "./node_modules/figma-developer-mcp/dist/bin.js",
+        "--stdio",
+        "--no-telemetry",
+        "--image-dir=./public",
+        "--env=.env.local"
+      ]
+    }
+  }
+}
